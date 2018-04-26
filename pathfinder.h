@@ -1,7 +1,7 @@
 #ifndef PATHFINDING_H
 #define PATHFINDING_H
 
-#include <arduino.h>
+#include <Arduino.h>
 
 #define MAX_NEIGHBORS 5
 #define NEIGHBOR_LOOP unsigned short i=0;i<MAX_NEIGHBORS;i++
